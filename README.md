@@ -4,7 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## What is this
-This is an Express.JS backend for collecting a time series analysis of UWB CSS lab machine statuses.
+This is an ExpressJS backend for collecting a time series analysis of UWB CSS lab machine statuses.
+
+This project is temporarily paused due to not being able to automate connecting to the UW F5 VPN.
 
 ## Who did this 😂 🔥 😳
 This project has been solo so far, though pull requests are encouraged. Documentation is in progress. If you have any questions or suggestions, find me on discord at Spooky#1010.
